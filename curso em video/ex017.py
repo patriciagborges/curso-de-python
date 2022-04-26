@@ -22,3 +22,4 @@ import math
 #ca = float(input('digite o cateto adjacente'))
 #h = hypot(co, ca)
 #print(h)
+
